@@ -1,0 +1,5 @@
+escolhi o dataset: NFT DATASET -> conjunto de dados consiste em 250 coleções e suas estatísticas de todos os tempos, 
+como vendas, transações, propriedade e compradores.
+NTF - Um token não fungível é um tipo especial de token criptográfico que representa algo único.
+https://www.kaggle.com/hemil26/nft-collections-dataset
+criação da tabela
